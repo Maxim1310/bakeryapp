@@ -50,7 +50,7 @@
 		E4FFF0052DCE2A4E00E25CB1 = {
 			isa = PBXGroup;
 			children = (
-				E4FFF0102DCE2A4F00E25CB1 /* bakeryapp */,
+				E4FFF02B2DCE2F5E00E25CB1 /* bakeryapp */,
 				E4FFF00F2DCE2A4F00E25CB1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,6 +61,14 @@
 				E4FFF00E2DCE2A4F00E25CB1 /* bakeryapp.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		E4FFF02B2DCE2F5E00E25CB1 /* bakeryapp */ = {
+			isa = PBXGroup;
+			children = (
+				E4FFF0102DCE2A4F00E25CB1 /* bakeryapp */,
+			);
+			path = bakeryapp;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -114,7 +122,10 @@
 			mainGroup = E4FFF0052DCE2A4E00E25CB1;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
+<<<<<<< Updated upstream
 				434445DC2DD2682400CB2A5E /* XCRemoteSwiftPackageReference "SnapKit" */,
+=======
+>>>>>>> Stashed changes
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = E4FFF00F2DCE2A4F00E25CB1 /* Products */;
